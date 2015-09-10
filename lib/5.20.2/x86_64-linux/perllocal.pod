@@ -350,3 +350,25 @@ C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
 
 =back
 
+=head2 Thu Sep 10 10:40:20 2015: C<Module> L<Net::IP|Net::IP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ap/idcos/perl5/lib/site_perl/5.20.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.26>
+
+=item *
+
+C<EXE_FILES: ipcount iptab>
+
+=back
+
